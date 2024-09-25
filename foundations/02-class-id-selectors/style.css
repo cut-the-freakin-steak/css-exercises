@@ -1,0 +1,19 @@
+.the {
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.squidward {
+    font-size: 24px;
+}
+
+#spunchbop {
+    color: blue;
+    font-size: 36px;
+}
+
+#patrick {
+    background-color: rgb(47, 255, 109);
+    font-size: 24px;
+    font-weight: bold;
+}
